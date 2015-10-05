@@ -1,5 +1,6 @@
 # h5cm
 HTML5 Context Middleware (H5CM)
+
 Taking into consideration the necessity of providing cross-platform access to context information we have designed an HTML5 Context Middleware (H5CM) to allow developers to reuse existing sensor and reasoner modules making their code more compact. The implementation considers four basic requirements of modularity, extensibility, reusability and the "develop once deploy on any platform" approach.
 
 Any technology should adapt to the end-users’ perspective and tailor applications to the context (i.e., location, situation, social data) using any smart device and platform. Realization of this smart vision demands mechanisms for ubiquitous and reliable acquisition, analysis and sharing of information to improve the experience of end-users, by anticipating user requirements while the end-user remains undisturbed by the underlying technology.
