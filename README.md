@@ -11,4 +11,4 @@ The H5CM was implemented using the HTML5 standard. The core middleware is based 
 
 Note 1: Sample application can be run on localhost. Code changes needed when changing the hostname. 
 
-Note 2: API keys and client ids need to be generated from the developers websites/consoles of Google Calendar, Facebook and LinkedIn for authentication and use of their APIs in the H5CM plug-ins and sample application.
+Note 2: API keys and client ids need to be generated from the developers' websites/consoles of Google Calendar, Facebook and LinkedIn for authentication and use of their APIs in the H5CM plug-ins and sample application.
